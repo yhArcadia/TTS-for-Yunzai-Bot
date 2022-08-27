@@ -2,7 +2,7 @@
 
 ### 插件功能
 用于实现文字转语音。
-![音色列表](https://github.com/HiArcadia/TTS-plugin-for-Yunzai-Bot/blob/main/list.jpg)
+![音色列表](https://github.com/HiArcadia/TTS-plugin-for-Yunzai-Bot/blob/main/soundlist.jpg)
 ### 使用方法
 放进lib/example文件夹即可。
 
