@@ -8,4 +8,4 @@
 
 ### 其他
 * [Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)
-* [Yunzai-Bot插件库](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)
+* Yunzai-Bot插件库：[☞github](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) [☞gitee](https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index)
